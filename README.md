@@ -14,12 +14,14 @@ the care plan accordingly. Postoperative care communicates with Local Doctor /
 Local medical care provider.
 4. Agent : Agents for commission will provide Patients with logistical and
 communication support to connect to one or more international doctors and hospitals.
+
 Common Medical Reports
 1. Lab reports
 2. X-rays
 3. MRI
 4. CT Scan
 5. HLA report etc…
+
 These reports are done multiple times
 1. Locally done
 2. Pre Procedure at the international location
