@@ -28,4 +28,4 @@ These reports are done multiple times
 3. Post Procedure at the international location
 4. Postoperative care reports done locally
 
-   
+   ![Care-Pass](/CP_Usecase.jpg)
