@@ -28,4 +28,11 @@ These reports are done multiple times
 3. Post Procedure at the international location
 4. Postoperative care reports done locally
 
-   
+   ![Care-Pass](/CP_Usecase.jpg)
+
+Planned solution
+
+1. Safe AA - Web3 identities using email / social login
+2. Sismo + FVM
+3. Lit protocol to encrypt content
+4. XMTP / PUSH protocol for messaging / Chat between web3 identities.
